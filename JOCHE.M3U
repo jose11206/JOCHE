@@ -3,46 +3,32 @@
 #*****************************
 #EXTINF:-1, tvg-id="Canal 2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Undefined",Canal 2 (480p) [Not 24/7]
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
 #EXTINF:-1, tvg-id="Canal 3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4.cr" tvg-name="Canal 4 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtIy0gQHrc9uQ_0ccAJNqWCJFJviLPDpGe3ITUq_7cXuuLx75qtdmb7YAW8-ug5Chf.png" group-title="⚪ - COSTA RICA",Canal 4 (OP2)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072134
-
+#EXTINF:1, tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 4 (1080p)
+http://45.5.116.178:8000/play/a00g/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1, tvg-id="Canal 6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Undefined",Canal 6 (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-id="Canal 10.sv" tvg-name="Canal 10 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_CNs4MYwRQ9BlWUoWPRtVfs1QBSB2GGIJ_BVp_uBMaHdQgB4R4alrRiJN4-pevSpefNVWw-M9XsrBo0OSAyklaE.png" group-title="⚪ - EL SALVADOR",Canal 10 (OP2)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072171
-
 #EXTINF:-1, tvg-id="Canal 11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="Undefined",Canal 11 TuTV (349p)
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-
 #EXTINF:-1, tvg-id="Canal 12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12 (220p)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/live2/alba-sv-c12-c12_720p/chunks.m3u8
-
 #EXTINF:-1, tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="Undefined",Megavisión Canal 19 (720p)
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
 #EXTINF:-1, tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="Undefined",Megavisión Canal 21 (720p)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-
 #EXTINF:-1, tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO CANAL 23
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+ (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
 #EXTINF:-1, tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p)
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-
 #EXTINF:-1, tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="Undefined",Órbita FM (720p)
 https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
-
 #*****************************CANALES DE UNIVISION
 #*****************************
 #EXTINF:-1, tvg-id="" tvg-name="TX | SAN ANTONIO | UNIVISION KWEX" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="⚪ - UNIVISION HD",TX | SAN ANTONIO | UNIVISION KWEX
@@ -208,7 +194,6 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1, tvg-id="Canal2Misiones.ar",Canal 2 Misiones (1080p)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
 #EXTINF:-1, tvg-id="Canal3LaPampa.ar",Canal 3 La Pampa (1080p)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1, tvg-id="Canal3LasHeras.ar",Canal 3 Las Heras (720p)
@@ -225,7 +210,6 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1, tvg-id="Canal5SantaFe.ar",Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
 #EXTINF:-1, tvg-id="Canal6Posadas.ar",Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1, tvg-id="Canal7Jujuy.ar",Canal 7 Jujuy (720p)
@@ -241,10 +225,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1, tvg-id="Canal10deJunin.ar" user-agent="iPhone",Canal 10 de Junín (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=iPhone
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-
 #EXTINF:-1, tvg-id="Canal12Web.ar",Canal 12 Puerto Madryn (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="Canal13LaRioja.ar",Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1, tvg-id="Canal21TV.ar",Canal 21 TV (1080p)
@@ -260,7 +242,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="CanalLuz.ar" user-agent="iPhone",Canal Luz (1080p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
 #EXTINF:-1, tvg-id="CanalProvincial.ar",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1, tvg-id="CanalSantaMaria.ar",Canal Santa María (360p)
@@ -291,14 +272,12 @@ http://168.181.122.234:8000/play/a038/index.m3u8
 http://168.181.122.234:8000/play/a037/index.m3u8
 #EXTINF:-1, tvg-id="EcoTV.ar",Eco TV (720p)
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-
 #EXTINF:-1, tvg-id="ElTrece.ar",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, tvg-id="GarageTVLatinAmerica.ar",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1, tvg-id="GlobalTV.ar",Global TV (1080p)
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-
 #EXTINF:-1, tvg-id="LapachoTVCanal11.ar",Lapacho TV Canal 11 (720p)
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1, tvg-id="LitusTV.ar",Litus TV (720p)
@@ -309,7 +288,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 #EXTINF:-1, tvg-id="MasFM.ar",Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
 #EXTINF:-1, tvg-id="MilennioTV.ar",Milennio TV (720p)
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1, tvg-id="MisionesCuatro.ar",Misiones Cuatro (480p)
@@ -320,14 +298,12 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1, tvg-id="NETTV.ar",NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-id="PancTV.ar",Panc TV (720p) [Not 24/7]
 https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1, tvg-id="PlayTelevision.ar",Play Television (720p)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1, tvg-id="PowerMaxRadioTV.ar",Power Max Radio TV (720p)
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
 #EXTINF:-1, tvg-id="PowerHD.ar",PowerHD (720p)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1, tvg-id="QuatroTV.ar",Quatro TV (540p)
@@ -340,10 +316,8 @@ https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1, tvg-id="RadioYguazuTV.ar",Radio Yguazú TV (480p)
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-
 #EXTINF:-1, tvg-id="Radiocanal.ar",Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
-
 #EXTINF:-1, tvg-id="RTN.ar",RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1, tvg-id="SanPedroTV.ar",San Pedro TV (1080p) [Not 24/7]
@@ -356,7 +330,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1, tvg-id="Telecinco.ar",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-
 #EXTINF:-1, tvg-id="Telediez.ar",Telediez (360p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1, tvg-id="TeleJunin.ar",TeleJunín (576p)
@@ -381,7 +354,6 @@ http://192.100.186.53:8090/hls/live.stream.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="VTV.ar",VerTV (VTV) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -406,7 +378,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-656fa24bdbcc
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1, tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
 #EXTINF:-1, tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1, tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
@@ -441,7 +412,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1, tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Music",Tropical Music TV (720p)
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-
 #EXTINF:-1, tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
@@ -450,10 +420,8 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1, tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
 #EXTINF:-1, tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
 #EXTINF:-1, TASTE MADE EN ESPAÑOL
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-65cd2cf397fb4731f54ecae7/variant.m3u8?url=e83e0bd1c802e1c1b906d13675c1cbde-058d7d6ae60608c632a472cb7e2655b7512c820375ae1b72a69d78d3e4a76129714772540e124c94db0b0c0959fc574ddcef6bce86bb68db54b2c7f3c3699dcc823116503ccbdbd51d500e3dadf1f0e8b2d1e8f68599c3b4f90de80f4d5c7564e6c72822582e42d4e8269316c743356cdeff00140fe5befadc5582b8d002ce0562cbb00b2f0fa68bb8efaddba376f380e674f7f6a0a8c4134987e73984431a65517e42df6e11ce1ac2100a36b88cc038c15ca9ada84c69ae090839d8d5d0f9625276f803334df5e4eb47e50e71e5644d6cd740fd74eb434bbfc113b988b8f7ce293004e86ea7ea672c610352b2ff3993e7ff9b9c62d5b6105b6169d6521cb17e3a6a87a422737fb0a2d678698386cb7e5ef43a8b68f6e95b001686260d479986bc379e888b0a500f578b39aa6710954e25581671372a7674f426248e9b8b6b64dd5928285f9c78334283acf7fd7a1847559b14a46d3d4976fc2819e3d5b84570c4613abee568ba9aa23d79f5493511b25fac0c0cbee23c109a15da9a07efee2529f3043b591acdd034a0c0e0ea92bcac86ec68d373e4a47eb606c76f9d0e364ed65625fa5686332dbfd6582224c8d29e4083b1c5d523771433457bd501c7c973976a8db227f9f357d637128b823e3d94f6b1c6435cfa9f30ba70baf750aee37f3ef91644ebb876d57746c036b282243f15beb274d6aca9c7228766b8cd4fd1b4a9bb53a03996484ea4ae605453ff2b9776e0414a8e7b685d15063d567587f0a12ca9b57056d833249bbbf0bb923227ce808297fac823ec63234d550b6dde82c098c5f43054544dadfb0f25333c1a466c68d6d1bbd4e2c65b82ebff9ee81400af4e4a61d72650e26d40eecce082933fac82a525ab91d8babdebc6d38f6c279100472f9f973d3ed5a8092a1e77338377b74e7fa8c09ce584fd97559d11f7a7dc1ee62151ca7d0e4eb35512d62ee1deaa6030ca7287ab921b075a77c48854ec764203533a2c9e1f99244cebbae1234847fe815f1d9eaf5f52a69c277515a344fc2a5b748cb5ab9ec008932ca95d7eadf75dd9c8e9a13f3d997128c0c7025288b735459613452d29bf13a32a6010e0a1e55e68f541c1957e28e2ef80a57d4515c4ccc14bd9a8b7da59750a5031431829159c6461a4130b4f1cd5c3a59712fad746566f47626a367d909c92adac701a3554286a8a5d60097e92370542692acd5ed0c3fffd27a7de68381f88bf34a9d7b53d1b07a30d12044e233f135283121fa61adc9b6ea6a400f4fc8c4a5ac7fc378806380a08045160bf55e03a9d0dd14e737ba7e499e16c80fe421e1883c8703606204077f4f20af5b886a44f06318219f2e3d54a37a2c00d1da9378db13801e896ab158fd78bb71a7f645cb5a9e8a8e557114f2ccecc8092bf44265851b7f300920928acfee3149ce62e463a6de1122fbc02cae9bc6a1da7b6851037d3a5e70355dba3b8ce16d7d39e472446a0e2e81615101ec5cbf81015abfa69fac9caf100bedc754e86c686579e61fdfe4a608427a7fe95cc3cdf983f01b87e86bdd5e6f9211cbfbb2636b06b3ce7657447c7078ab3adf55d7baeddbca0bfd8fda6420ad31afa945b419c8eb303cebaed7c6073976b2b83b6b42cadd54ed62b71361f9a6b7a4ac9fbd321ff68403bc9d48ea77ece4aea5815a6df613b6953edc223f4c996f015a9843d0c5c958cecb560ff10fb8a32bb960eb171a9d73b10674109fb91c9e60ad4d16a494d34c3ed420851ddfdc264c0a5ad4806349951b81219c13030ae44dfee0ce7305561f50db84918d8c6d1f836f243b86639852ec208e982e027f324c0161740893ebecae7146e8f714d34381fb719d357a8fb1eed28e73864622c83d9fdaf0ba63db23e9fd8e4225f90100e1fc21fb8105d8f1ddb5adf77b203fdf01c7d91701fd3cadcee27ad3db1fc2ee42e21bab98490ba0a177d6cbff46a6d5eceff8e0ba8e8e770dbdad660eb487fd538e1a636c049bde3da2eb85771049caa694873dd0d2fe90139bddc8eae6143ea17ca9ed66f59ca08cb017adaf8e66cddb111547f9aaaa99b4cc9a5877ae2a58e891ccca049514fe1153beac55a9457eb1440c183204ce83b5b4e30937e7dda1533bf794f34b2b75a6af7b8ea6207b02c6f9b0df23571123d2f2ca141820a1b84a7fd489672c2c2790c81a4a006c489379e7511a4b75c335c9bb1360902608da5a08161a5594011caf5ca38af181ce2853623066e85530af75b0eadc152c9777e09c2f6991eb64052ba3b6adb5c44c8652fef3d5b14a5b121d0b8cd0b93b1d759d0b53480da7ea264a94f66f3dee9939499a33c3ed4ad17a89758ce26ae9fb592ec35114f423aa0ffabc1927d8c3058ce7567daa66154248b128b9d80038e7d91cc6c97e75225df732be0e115dceec7c03e0bf92507b86a5f534d196b39be466549b199c4d76d2f1ef118370142a50538b2681b1dec3af80a217f6a36811d138dd588d417255fcbb575833ef16ee0ee9497b363dc32594d772590cb3e0a19254a5831bfa5e214195061f55b35a0ef1f3e10b4ef5b3e524b785a279eecfc89b7e9a78bcad649a52ed20a5b7398f7f6ee581f8d78d28f463825e26f9a86c51a3904cf0f40b9f345765995547055576673ca0f0527129404533f2dcf2367308991d7068e85a21aa59505089d89f785bd72de3b92169773634f43bd43ad830ef165ac3c2c400fa9c6d26217aa733640d63efd3c555bf3080fe759a482b5ec2f0010506613893b7842cb1206820de94b91d088e026fdc8bf6833c97df08a0d25ab21ade11f1b8bd9af20745d9a80bfa2ab582ee66a41e5723901d7cad4d82fd933a1ac1fa0a21e3cae05e36135aee52fcc5af7f291458db55023b1dc0728598881846a64d151f2d9a6542bcca81aea50f258253799fc45456c52390a72f9ba4730692ff65061b3fbd2bdcbad9fd3221ec028b1b994&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=58787569-dd3c-4ac1-8798-d48c30e63f27&x-plex-playback-id=&x-plex-provider-streaming-start=1728254988
 #*****************************CANALES DE FREE TV
@@ -488,6 +456,74 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-63226c03e67c
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-6329474265c8569187176338/variant.m3u8?url=8d5f6364cbfa32b77ac65f9197ccdfd2-bd11ef2d45ce03216e5850661efab307dcacb84fac20bd757195528feb321ef7cd470c0b713f30aedb158ee21be1e8fd08079c73c6204f016bdcf8b553cb38560a3b6cb315112cb4ed9fb6371bbddc9dc22448b621d184c6f17f04104bd27338224147f3b79bdff39c67e5fb7cbcaed9191db3164994eafb9d0eaef9e9e35a70f1691c5edb04ce77de8be570eede8cf3849b6e1f0148c184f87aaac1258126e5faa8fbe17123f8a9208beeeb9fcc0877f0d8ba4e6bc25695e3fc3fbb0504a3efb7fdceb42f7cd71c11e5690f5db8c8990ddee3e94d4244b46ad1c570cb7c30e2f66304126bdf93be785a8d466afead2c10cfc200aa756c43f8f6d628367a8ef580831b9bebd060c0881226fcdde67b78fbdd476366a72b34884e4a5f15acbaea36db58e73e4cb1f5954664b149aebd0b8976b6d074d35f8869c609e4328ba9988af35d59cd6317f1c36232513dd2ade555d8f3c0648ffc3eea647dcf5b56ab3366dc2aaf1f619f11990c41ace33ccc6dc7005305d48d4c8672436a474d81c70a8a2cb466d1728c8cbed200f768a2fe809c148f0fabb4105b3eca383fcd4d41b164df43ee93b9b06e9c04d2287444719736d350b4d19582235b61c513318bc617b2bd7437403fbf92b9bf38e3a0dc3a82e06a04a603a0922fde892a78188fb610b16c47946ba5435883a8f93497344de46d75593380530021bd1e0e15cc041c0a848b8f82c213b393e3d5718d3544efc5d713607faec18dd9f235cc96baef8d1e5434d7c6109574f7afaedc4a3fe89b039572e01c38da6b591cf95c8d35b852901c5d888a2cc15ad69c773a01566be10c73e657057a38015ec7aed9cdfe3e45f74daadeaf6a3078f697a27c01b8b3ca82551c0940efc496fb4a70d2fc369a83e82baa980aaea7d470f0ba9dc1a7530005ff881ff18d2a0f203ccbc91b0831a4b10cb2cb7278039a002bdc667fd29b0719de793b0f42fa933e8ea322ae54f0883da2c47c359efe33e820c8a51c698e490f9f98016361a50e1d594d20dae93c7e5c8ef97c02cde3c8b5d2210ad348395385c8830f0dc21c50bb67cb2705f2ccb882958305cc3591bb2bde09b885dbd3668706fb1c005c25151cc522e65bf604ac991aa21655e8f9d38d42ff717e560d7c970b8fcd16fa717c26eb8a5e7aa07d20b06b90cbf81310b60aed364645074b23f12073182f5aa784fb7b27764e69865880cce1e846bcbbd22218ce2f8ccec2a3df27b79ad7a9b50d4ea0dd952f19ea9e067f883fd50bd8d1566f1149ff0733ecf38a70cf652887625cffe4a3a8258799fe80377684410b708d69fd232b8ac68a43eadb67f993615360cdb36781db70d05c980f6a8ebebfb42c8f81feb98b774338d386d2de8a7b744669951fbc7030581b592c54defd18524ca4f4d79822bf4b265a5cb978c3318d49ef10b02d9c04b92e9e68d7e3e2a9512ce2474375c5d581cccea72a9afd6cb62b0e9d7b2246c2412e298f1c9f9ca51be6b6aca3d36312609deb0df2877962e5930f4678428c9ff196e5bf65d3f91457edd6dcd254889963e7b59c8f5891bb025088b9179effc6aa902229bb75ab00078e6d7a71ab77731dd74d4584569a18cdc58ec02a79d4d38eeb1316406e04884f23abf5d194bc012fda7bd68bf13dffe6463c587a9387943442f12239ef4da3a89daa1101804546ff7e6d8c976233f19fbfcd4d6ae69613d3912ff8ad0bba71a60332837ef72ed1e78e4c94486f0951466bcc1e88fac3351ee09e9d5f95541b2de60773a1c30cb78ae20fc5d4402327b8ab2d6516f66dd56eaefc6efdf29fdd9363daa9d7dd0c3261342dd242dd85cda14e84284bfe115661c618924cf18468a0554fb3a499bf8aa7d1bdede3d8a690871bcfdc4aa2c75bd5d36f9a0624d9e3883a58385fc5a72b99ca5ca9e452f20887ad0b2b870c5762cbdc52d0aef6730ab5f0b9e90bd7c64d131323c668939a31489c430e4c52e7a14ad6bfd1e8dc0628339a84c35b54938aebd887884218d915bec70b5c764568de253e6e118ba81f317740dc4daa3fe6f01c0c846c3dffe4633cb002c12b5a7becde1ad7a7d4f053a30192088ebd28c751358b6f48ea37831168072880703deff4009d&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=0223e536-2a56-41d5-872e-2f46b80cdaa2&x-plex-playback-id=&x-plex-provider-streaming-start=1728262377
 #EXTINF:-1, TRACE UK MUSIC
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-66be8cd4871131188099527e/variant.m3u8?url=a508fe7ae9e36956f33509e3e9d42276-907b7bec9003c460177377da7f73e3ea052515f9f1af5e09509dbe9423c4661a26e724c2b1ed4c4f05d4266171e903473d8b5627e751c5da75b8b793a88e43fce71c01ab1c047c60fd58944f04e5d326ac65112c48574adefa10f6341023d8aad623e8f11828e1efc7ba8f789d0ccb5f64fee238839df1f53970a52cbb9af2450f226a43d1de43dda899056889a101c9b2654aadd339894f15456221bd84587a87e6a9256794304b8154b3dd772f0785b14116fd8ccb5eba92d73c5460c2908a819a4ec7bdc37e683bc03944e3e183001dce1de49d2fdcff2cef4c2c3387e05e6e5865572624b7e03e959b8fd710eaff95d3d872fccce0ca5b500120ea7aac8be6c664e6161af669354b9d5d706ad091ec84278db2baa6a6c081b9de97064bf6b942d57bbab4951778eda4330dd5db29b23651d9c9d0ab20426624c52caf6c75d3f6c0958ebd27a667b3516ac9b6321679f0a002be3cc89631d4a0a0bb149cd5c1b155687df00d0cd382e9d5d98d4cca8013f935fe39f63b07c80ea152906be479e530e0fe58da79a0a58a35f038868102e3887ee880793fc913aaee920bcba066feac01f9cbabe12fa00a463700bfe1348aacce4d0ffae3142455acd9bd46167802cc243e5e0b6f849851ff63f67c1ece1670500bb56055edc4bd1448ef175ad9ec3c501f838a5d0b4e80e299c9ec01f06bcfc1dc3a6689485c342f2edd94dc8d27999a173bc9167becc1e9392361b21aec4b10097affe1ea73bf0f2348a1bccf48bfce5518cc5fa09b730602ea7dbf33b3b412abc6ed02fc70f5832414f2b71413d77dc919e3311404c7c96abb507ed89be024a9abd8edaccd8c2163a5c99aa614b2a24ebd54029a47eeb82ebc8f1bc1ade03dc947e3a6e004210c5748d04902e03e37740d52fe224f38ca2708492a3b0350e0ea02d705e30c55a7ad3083e6ba39a19c15466870087223b047d20626e5d939eeacee4f8a51e46de41a6f6fd0d6d4c5797df47f8dbc6a4d3405c0806161faae44bda40ecdbaa6ef220a08656a2479c43fba889522e8994f669d6c53f024cfae8fa539b959c043e6ef3d437b5490798cb0a183bdfb433e3bce29302509179c189908a7bd11cb37223e8060922acf3cf0d34a527ffe624650ca3dce279ebc19c155745adaae7dab03e285ee8d8493588e889507440a695fb1329938faa514a667b39bd4a8583358f79e807d356c33e9d3c6b9a5f647b9c9b9c91c70e838cbec3e32790cb11ae259f052aadb53757c2c65f10d80aa285e5e5b0f5c4adf19a4bc2e0ee438d003fb783fc090b6ac27b847f6c823313a92afa4dfb72bb14309040207b641c2ac5bcad799b327563df9ac92dd3f3bade4cbd05b74c3085983337ec3185abe653ca7ee1b2b4fb381992059cdc2f15f98a10a3605d2da7dd292463cee0604def70300398bb67e9eabf2ee1e4c0a444f8734754f557027359c32739d1f89dd0bd7bad656e54de054ecb4d323b97bec6f4fee00d9643be13eb9f7eb6590b988814a8317e41dcdb3f19bb3b81929b7db16844e3b5a4d848eb2383e43c17cc53c40b5af844517441e42017ff146982f91f63e86bbd0078c76eb36cfa33fbafe5f31c3e163fa568e465bfae17d4737c35af8b28629a39544d3e27cabb4269f65e4769fc6d48aac45e13fefe389fb7deebb77c914180d4ba9aa5d8a8202fe807eede7233fe76a28548db00a490cc31c10bfa4f9034bb97af8ed9709acfaf46f6a97c4f6d81db86289a685e63a55413393115409d3d8a4af75cb9087442d8dc59b378c351b6451efbf98f8f18427d74eaccfbb4556078821a149d842eb9ae9c3e8d497a6c74e30551ea5b1cd0a8afaa2a57cabec5bb10ae0d11c88287b7debbb34e97ee1bc8103b6599e011d50afb64fc486f61673767fac11eb131d5b6a0f2843fba56cab2c6ca0ca2b5e4930467510c5f9fe0200f44f800619410f98a0b7d78e3a47fa94de8488cf4fc83173138e8142a87e552ba54e96aaec9bc1131e595773d607506a4ecf575c25326e0fde6032d683a0e36207dc2c38b44891547fd3a7c809f0b354226f9a136de0b6abb26cd9f554358df61be0255bfad23e3f2f05af5bee99a3666566c161f38075fac737f281b7596915db1af8ab311bfe1af3aca799f80ba1e7e531c2a0d5f7df182cc7f2aa1305486676fce6459dd05f76a1834f4b28ee8c15cc31cc475abdd7beb866d68c75827738aeca8437423beda81ad5cd07c3528f83d9574f40cb375b0ba78244897a5f8410f81886dfa7abe197ea4d04b5147d84e2fe9986f54040f627398d5ef8d62084c6579e3e34a97d59650090c44c0e482dec571ca9213630835dcda069a64f4a055e29e9e850884fe06b7c4841d442bdb9603ccdbd4737111673ecf2e189dace04c8779fa5cd6ba7f13481734ffbcd22f2e785cfed503b68b6549b98ca709eb8b75fe04873e33f120b23989c252052ddb28cbc0b49b43a325b933694432fd1e32ed48b14068b0634561c1b76791bdf908379e858bd015ea9b4c0bbda0bfc5af1a4b76a2d3fee039d0ef1f335e7ea8d1cd8373d84ebd3ddf1e259a153a2031edd93e9fdcc0e6f517f1e3887e3a02889da6b0fddfdc0ef13b77c55efbe6a60676274060c965686d1819a5de8726fd43ad2507775ff81c52f82cad599a3601fb6eeeae6151e0ffd26d78798ba11506bda0a37fd42d1a28ba026e8d45a00bc67468b511ed75ccb920363495f1c008235545441d62f58ae9397142dc13afb3747e9461ff3c6f63892fc458fc5ac50bf49a1b7e833544f5fd767fbfc92174961f6f630154016202f94d97cdd06ace2f7a87ebb11bf60ba6f4c8bc64747a3f4bc84d24157062e4453c86880df5ed966ef2d01b47939c4fdf583e612c0f5752bcc65f6f577ce34d082d2835267b463314a83b13bdde809364d81f71f1666f1cae8731368b357b77e7e934d8cffdfbf3920dbd81a9fec8c7b3985535e51f1e418c6c1c75d2c68a21dce41fbda9ee1a0abda8466842a632e1d57c7e07610068a09708c2400f154905c48c0678bdc1376faf86c80d465bedecc5f1e4f6df7055e14cc909d51156bbcea19e6bb551cb3d08ae5301144e3c849be623046dcadc1fe5f9e7aea3111142fbdead6252670a2122bb867c508d81eed9dccb1977dc90686&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=a99891d1-2b80-45f5-83e6-7cf2d749766c&x-plex-playback-id=&x-plex-provider-streaming-start=1728262562
+#*****************************CANALES DE MUSICA
+#*****************************
+#EXTINF:-1, tvg-id="" tvg-name="Telenord" tvg-logo="https://dnslivetv.online:443/images/MPHhRrCtJmmi0X4jns1negwpjZEpSjlGhdQG8RXvlFSMdEdVY5FBrpWFdlcLSN15aeTIJAWaHcnGUcqoq6p9_6m3-3njfDdJWRjKA6ZxfBRXL5zD-8j82YDB3FN9Ckv1.png" group-title="⚪ - ARGENTINA",Telenord
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072555
+#EXTINF:-1, tvg-id="" tvg-name="extra tv" tvg-logo="https://static.wikia.nocookie.net/logofan/images/d/d3/Extra_TV.png/revision/latest/scale-to-width-down/1200?cb=20230724012443&path-prefix=es" group-title="⚪ - COSTA RICA",extra tv
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072300
+#EXTINF:-1, tvg-id="" tvg-name="Vallenato Internacional (OP2)" tvg-logo="https://dnslivetv.online:443/images/VMuemXtAUScuuRdvtZ5dhmaCgOgRjtor58NCnzcTAQC6Wbl74TXKP3jt8PiLUrZvGWxzEJIs3xUXgHbGsefZ_w.png" group-title="⚪ - COLOMBIA",Vallenato Internacional (OP2)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072042
+#EXTINF:-1, tvg-id="TelehitMusica.mx" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://dnslivetv.online:443/images/qw9Sd5JnDX2uSQDrGmMcurSfZy0rIXkiL3b2kjbRr68EcjvYeEH-5GRwtXkxehTc.png" group-title="⚪ - MEXICO",TELEHIT MUSICA PLUS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591635
+#EXTINF:-1, tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDAxT2pTHpX45LLhwAj1eOtxkpK7uY8TTQ1f42IR9f1U0.png" group-title="⚪ - MUSICA",GLOBAL TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591930
+#EXTINF:-1, tvg-id="" tvg-name="HTV" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tBDHp7Ze6jbf7VZR21X5i9vHnLp2zowfBfDUbb9O2YREhLbANCCoiKZUKaVrGziwtMzVtQMTW0icJV7Ia84qMmfCitqIBsBrUyEyuOoVAHbwQ9Tp9N4WldoiDt6iErIK_hmENhDRTEfAg6FoACWdZjqeD2hWG4zK0kglE_Z-lzZ_AmOKpK6u_6xMAsWM0MXdgw.png" group-title="⚪ - MUSICA",HTV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591942
+#EXTINF:-1, tvg-id="" tvg-name="MC ( MUSIC CHOISE DANCE )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyO9DNfkxE38F11t92t1-qlO8MzZM_M_bCVyMLXdR7hvxXSov97OYLj41fDmfJaeGp9lk&usqp=CAU" group-title="⚪ - MUSICA",MC ( MUSIC CHOISE DANCE )
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591951
+#EXTINF:-1, tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://dnslivetv.online:443/images/mg9e4VnU5MiobcDarwnBscs-O_XwOhZLCg3zgjudeMI.png" group-title="⚪ - MUSICA",BANDAMAX
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591985
+#EXTINF:-1, tvg-id="" tvg-name="LATINO TLEHIT" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RiWwC5g0hC7KW43HVpURSVWTfwH8EAXEr3Gp7qbmQ4sgg.png" group-title="⚪ - MUSICA",LATINO TLEHIT
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591997
+#EXTINF:-1, tvg-id="THITUSD" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://dnslivetv.online:443/images/qw9Sd5JnDX2uSQDrGmMcurSfZy0rIXkiL3b2kjbRr68EcjvYeEH-5GRwtXkxehTc.png" group-title="⚪ - MUSICA",TELEHIT MUSICA PLUS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592003
+#EXTINF:-1, tvg-id="" tvg-name="Canal 4 Jujuy" tvg-logo="https://dnslivetv.online:443/images/hD_tmz_pLnX3KgVChjPvMWLWv4pQoPz3lmDhyC688nzSgsEf-y3f6_KZZ4i9b7-8_zBc3KpcPjCzL2KuXq24uKcFiGn0Bm5hC6NXIwNcGX4.png" group-title="⚪ - ARGENTINA",Canal 4 Jujuy
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072395
+#EXTINF:-1, tvg-id="" tvg-name="vm latino" tvg-logo="https://dnslivetv.online:443/images/S_zTETfgwpLVmZInzpLYS0gnlH9aDA0i_jPV-ijBwwgQYaUoxxerq0uuNGzfEdx_ebmq202UXxk-jRANrd0-_kl2WeA62E6ATRIgjJIhOf0.png" group-title="⚪ - COSTA RICA",vm latino
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072298
+#EXTINF:-1, tvg-id="" tvg-name="Telehit" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RAETuJib_PdYpXC2uUHbGpMo_OukZF1Gv1bJpuj2fDKE.png" group-title="⚪ - ENTRETENIMIENTO",Telehit
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070959
+#EXTINF:-1, tvg-id="" tvg-name="MTV Hits" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RE8SktxkrO-hd3XSvDB8XGQ.png" group-title="⚪ - ENTRETENIMIENTO",MTV Hits
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070953
+#EXTINF:-1, tvg-id="" tvg-name="MTV Classics" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RKedCMo-H3gbPK8rMaqvwEltalU211Cvv9Un7auTfB5M.png" group-title="⚪ - ENTRETENIMIENTO",MTV Classics
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070951
+#EXTINF:-1, tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RlgKRkI_imJ9Z64rxnidpaw.png" group-title="⚪ - ENTRETENIMIENTO",MTV Live HD
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070955
+#EXTINF:-1, tvg-id="" tvg-name="BET JAMS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVW83cADXMTxFaVYA6rODPeHR7VpvEkgChkeupF8VNoIDwlOWAzo2v4pa0dyeVkB2UtF7_S85QubisxDARJUJWy.png" group-title="⚪ - USA ENTERTAINMENT",BET JAMS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585453
+#EXTINF:-1, tvg-id="" tvg-name="BET SOUL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVY5IlfQTSHLBxwbpeaz-_q86czk1w_RGAJ0FQGOYkeuNxdsq_-U7GA4OgcBXHB3pOSI&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",BET SOUL
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585454
+#EXTINF:-1, tvg-id="" tvg-name="FIRST MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02VkYG5uKIlhoHsztyI-hLIrlXN7yvMs9gSfnPx9NCgBmfNdXjYuF9LUojRfsLnt_i38&usqp=CAU" group-title="⚪ - MUSICA",FIRST MUSIC CHANNEL
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591889
+#EXTINF:-1, tvg-id="" tvg-name="TOP NEW RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14rYXYrQ3tp3YAii6dWGi_-I2kDg5j1_cHifqXumYNCrGv-6F1hwLgVLORzVZ3VERryU&usqp=CAU" group-title="⚪ - MUSICA",TOP NEW RADIO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591909
+#EXTINF:-1, tvg-id="" tvg-name="88 STEREO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNmwvZf7pH0m64Ed6rzJdTjduLW9zvk-9F73cNi1NQUkdkfAJxByqgjtUsP1txcAKDPM&usqp=CAU" group-title="⚪ - MUSICA",88 STEREO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591915
+#EXTINF:-1, tvg-id="" tvg-name="XITE" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj0DfkurfCQm7jAtH7gpFaaKEPDW4u8huB_beBkY9i-U_qVN91f0zNWwYtk501iwkIUJ7QQqM3InkXaRM0Oqbf8xFkL9wNz4lr7jT0Hblz-6A.png" group-title="⚪ - MUSICA",XITE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591924
+#EXTINF:-1, tvg-id="" tvg-name="USA MTV CLASISIC" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPccZJVZ1xlWEY4yGLajBSqzslK7210piMonq_KqGcFEK.png" group-title="⚪ - MUSICA",USA MTV CLASISIC
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591976
+#EXTINF:-1, tvg-id="" tvg-name="USA MTV LIVE" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPccZJVZ1xlWEY4yGLajBSqzslK7210piMonq_KqGcFEK.png" group-title="⚪ - MUSICA",USA MTV LIVE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591979
+#EXTINF:-1, tvg-id="" tvg-name="LATINO MTV CLUB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7syJL0_m4G9lPB4DgXzsumIJosF77-AN1YBN1jy1EyTaqX6YrKh6_JBkEli9PsOm2-ew&usqp=CAU" group-title="⚪ - MUSICA",LATINO MTV CLUB
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591994
+#EXTINF:-1, tvg-id="MTVHESP" tvg-name="MTV HITS (OP1)" tvg-logo="https://w7.pngwing.com/pngs/848/112/png-transparent-nickmusic-logo-tv-viacom-media-networks-mtv-television-comedy-miscellaneous-television-text.png" group-title="⚪ -  LATINOS PREMIUM",MTV HITS (OP1)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602808
+#EXTINF:-1, tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPccZJVZ1xlWEY4yGLajBSqzslK7210piMonq_KqGcFEK.png" group-title="⚪ - USA ENTERTAINMENT",MTV LIVE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/860351
+#EXTINF:-1, tvg-id="MTVUKHD" tvg-name="MTVU" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPccZJVZ1xlWEY4yGLajBSqzslK7210piMonq_KqGcFEK.png" group-title="⚪ - USA ENTERTAINMENT",MTVU
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/860353
+#EXTINF:-1, tvg-id="" tvg-name="RITMOSON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiOa5yGr6xPfMxb-2L3oVwc9MlFDbIYfahQJjxqmMeLwSsO2Dup5p-JTpL9IckUxh4Cc&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",RITMOSON
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/860355
+#EXTINF:-1, tvg-id="MTVCLS" tvg-name="MTV CLASSIC" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPccZJVZ1xlWEY4yGLajBSqzslK7210piMonq_KqGcFEK.png" group-title="⚪ - USA ENTERTAINMENT",MTV CLASSIC
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1039134
+#EXTINF:-1, tvg-id="" tvg-name="Oye TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png/revision/latest?cb=20171029100202&path-prefix=es" group-title="⚪ - PANAMA",Oye TV HD
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070426
+#EXTINF:-1, tvg-id="" tvg-name="Concert Channel HD (OP2)*" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RTaZcsmUKphKZdKWfbtwWPZl8FrNH2IzkwBfa1K9zAPs.png" group-title="⚪ - ENTRETENIMIENTO",Concert Channel HD (OP2)*
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070927
+#EXTINF:-1, tvg-id="" tvg-name="MTV 00S HD" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RKedCMo-H3gbPK8rMaqvwEltalU211Cvv9Un7auTfB5M.png" group-title="⚪ - ENTRETENIMIENTO",MTV 00S HD
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070950
 #*****************************CANALES RELIGIOSOS
 #*****************************
 #EXTINF:-1, tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 65 (1080p) [Not 24/7]
@@ -510,4 +546,3 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1, tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa Televisión Católica Arquidiocesana (720p)
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
-
