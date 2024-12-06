@@ -5,8 +5,8 @@
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1, tvg-id="Canal 3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:1, tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 4 (1080p)
-http://45.5.116.178:8000/play/a00g/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Undefined",Canal 4 HD (1080p)
+http://45.5.116.178:8000/play/a00g/index.m3u8
 #EXTINF:-1, tvg-id="Canal 6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Undefined",Canal 6 (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="Canal 10.sv" tvg-name="Canal 10 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_CNs4MYwRQ9BlWUoWPRtVfs1QBSB2GGIJ_BVp_uBMaHdQgB4R4alrRiJN4-pevSpefNVWw-M9XsrBo0OSAyklaE.png" group-title="⚪ - EL SALVADOR",Canal 10 (OP2)
@@ -71,7 +71,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585976
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/586080
 #EXTINF:-1, tvg-id="" tvg-name="UNIMAS (KSTR-DALLAS-FT WORTH TX)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj_M93yIMrUNkwi6PYhEXbuCvazUgkbmisclLoGdC2AkF_zPBO0F4NS61AYTy6SdiR9pa-jlSu1hKTXF8S4eQqkA.png" group-title="⚪ - UNIMAS HD",UNIMAS (KSTR-DALLAS-FT WORTH TX)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585982
-
 #*****************************CANALES DE HBO
 #*****************************
 #EXTINF:-1, tvg-id="" tvg-name="HBO Signature (OP1)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjRf/mx_hbo_signature.png" group-title="⚪ - CINES Y SERIES",HBO Signature (OP1)
@@ -84,7 +83,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602541
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602619
 #EXTINF:-1, tvg-id="POPAM" tvg-name="HBO POP (OP1)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoVkwejnPNAgJHL37GRBkwGp5wmDkvtN52vwEYjcDBgb0RzwO0Pgd4DEDLhtqJHQN1A.png" group-title="⚪ -  LATINOS PREMIUM",HBO POP (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602631
-
 #*****************************CANALES DE STARZ
 #*****************************
 #EXTINF:-1, tvg-id="" tvg-name="STARZ IN BLACK EAST  (OP2)*" tvg-logo="https://dnslivetv.online:443/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRVIDDbceaBn1sbENnl17xjITm06s_90777Aywz8wQG9xRZV1884pal58VqcOkoCfQo.png" group-title="⚪ - USA CINE",STARZ IN BLACK EAST  (OP2)*
@@ -95,7 +93,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601494
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601506
 #EXTINF:-1, tvg-id="StarChannel.co" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⚪ - CINE",Star Channel
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070871
-
 #*****************************CANALES DE SHOWTIME
 #*****************************
 #EXTINF:-1, tvg-id="SHOW" tvg-name="SHOWTIME" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj8tbCF8AiK3s_2UOshK231NPQ3YpHTF8KpzSaN0GvncQGVMsVogYcHWwv-B6XOJGc.png" group-title="⚪ - USA ENTERTAINMENT",SHOWTIME
@@ -104,7 +101,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601245
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601273
 #EXTINF:-1, tvg-id="SHOW" tvg-name="SHOWTIME 2 (OP1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywkcqn-x17_KGNUXC2I01VKv6x5XZs7BksdEeosHmwYb8gSlkbgbKDzvRlWo0f3hWBcE&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",SHOWTIME 2 (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601235
-
 #*****************************CANALES DE MEXICO
 #*****************************
 #EXTINF:-1, tvg-id="CinemaPlatino.mx" tvg-name="CINEMA DINAMITA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPY8JzJMZ91yyl2ZG6y8j2UnxLYvO5ht-6O6pOtbPcsF5.png" group-title="⚪ - MEXICO",CINEMA DINAMITA
@@ -151,13 +147,10 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602201
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602204
 #EXTINF:-1, tvg-id="" tvg-name="AZTECA CORAZON (OP1)" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPRxG0oK4O1yRTjmjzLhaq4LAhIbl-UKOoZ48rVBmeBOa.png" group-title="⚪ -  LATINOS PREMIUM",AZTECA CORAZON (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602560
-
 #*****************************CANALES DE DISTRO TV
 #*****************************
-
 #EXTINF:1, NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.dpname=distrotv&ads.rnd=fbvb&ads.env_i=5a9b8b16-60de-41f5-a29d-71937da9cb2d&ads.env_u=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=45.167.3.81&ads.geo=SV&ads.lat=13.68060&ads.long=-89.18030&ads.dma=false&ads.geoType=2&ads.contentid=23130&ads.content_duration=18000&ads.episode_id=114364&ads.show_id=4557&ads.showCategories=IAB13&ads.episodeCategories=IAB13&ads.genre=Finance%2CFactual%2CTalk%20Show%2CNews%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=Negocios%20TV&ads.episodetitle=Negocios%20TV&ads.keywords=Trading%2Ccrypto%2Cinvestment%2Cespanol&ads.contenturl=https%3A%2F%2Fdistro.tv%2Flive%2Fnegocios-tv%2F&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241028
-
 #*****************************CANALES DE ARGENTINA
 #*****************************
 #EXTINF:-1, tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
