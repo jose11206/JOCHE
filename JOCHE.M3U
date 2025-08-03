@@ -3,50 +3,72 @@
 #*****************************CANALES DE EL SALVADOR
 #*****************************
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="https://dnslivetv.online:443/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGpl9efcliFl9JAbi-P9tXSs4-_6dGlEJDs72dVb478uw-pRkVfkiY3DslBE34ALVlaGERJPzYdBFYAm4bE34fks.png" group-title="▶️ - EL SALVADOR",Canal 2
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070286
+#EXTINF:-1 xui-id="570812" tvg-id="Canal.2.de.El.Salvador.sv" tvg-name="CANAL 2 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122126/Canal-2-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 2 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDr7qcaIDHzceqwBHpBJR2EN
 
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 3
-https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="▶️ - EL SALVADOR",Canal 4
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070288
+#EXTINF:-1 xui-id="570823" tvg-id="Canal.4.de.El.Salvador.sv" tvg-name="CANAL 4 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122123/Canal-4-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 4 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDp1J5g4NFXp9DlrZpPQSta7
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://dnslivetv.online:443/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="▶️ - EL SALVADOR",Canal 6
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070291
+#EXTINF:-1 xui-id="570828" tvg-id="Canal.6.de.El.Salvador.sv" tvg-name="CANAL 6 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122120/Canal-6-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 6 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDob-q8P6fW8hOrbPohlY4X8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDWs9HpDE9E3-Wr9UgPZu8a591PuwAksgA3KwN0-Va_r87SgJAgql8S4tdCqronurZ.png" group-title="▶️ - EL SALVADOR",Canal 10
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070292
+#EXTINF:-1 xui-id="570799" tvg-id="" tvg-name="CANAL 10 OPC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRy4-yuO8tGnStAZSbmRcCRXXYIsOXnXJHnA&s" group-title="EL SALVADOR",CANAL 10 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDr8MHN_-JLBB8DeCuLhsOjS
 
-#EXTINF:-1 tvg-id="Canal11.sv" tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="Undefined",Canal 11
-https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+#EXTINF:-1 xui-id="570803" tvg-id="" tvg-name="CANAL 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="EL SALVADOR",CANAL 11 TUTV
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDp0fyNU6vtibOJwQwZGSS7Y
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKbkUXfMW8UzuJ-z7tMiCdGpOOH4_IGTIQyTfmCDBW_3bDh8q7dadFYVPpL80vW9ob4.png" group-title="▶️ - EL SALVADOR",Canal 12
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070293
+#EXTINF:-1 xui-id="570804" tvg-id="Canal.12.de.El.Salvador.sv" tvg-name="CANAL 12 OPC1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-12-el-salvador-logo.png" group-title="EL SALVADOR",CANAL 12 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDoWsXBjUBHOHvb684U1P964
 
-#EXTINF:-1 tvg-id="Cana23 TVO."sv" tvg-logo="data="group-title="Undefined",Canal 23
-http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
+#EXTINF:-1 xui-id="570811" tvg-id="" tvg-name="Canal 19 ®" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JIPUkbtxK-Tt5-o49pj7ZTbfLzky7PBpFFi68QlfredH.png" group-title="EL SALVADOR",Canal 19 ®
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqGPmJI3PQMdMvU7qp-Hd8J
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48Rikso_NwMVnPU-WCvcK6ZYiR2BQal39Q0LBrqDKviU2s73yaV8uZCF346ibnnTsHrP.png" group-title="▶️ - EL SALVADOR",Canal 19
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070294
+#EXTINF:-1 xui-id="570816" tvg-id="Canal.21.de.El.Salvador.(Megavisión).sv" tvg-name="CANAL 21 OPC1" tvg-logo="https://megavision.univtec.com/_next/image?url=https%3A%2F%2Fkki5auiqw9.execute-api.us-east-1.amazonaws.com%2Fstg%2Fresize%3Furl%3Dhttps%3A%2F%2Ffrankly-vod.akamaized.net%2Fmegavision%2Fuploaded%2F89c7973e-1bae-45e5-a261-98d5197ca395.png&w=3840&q=90" group-title="EL SALVADOR",CANAL 21 OPC1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqQO7SAo2FFBE7l_glGkX8H
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjXIwhnVkcorz19kOkxyuIEeU-zBlZ6XbWVZwy4JHpU-ORi9Dskkwp4Dsw0kjpG5ni.png" group-title="▶️ - EL SALVADOR",Canal 21
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070287
+#EXTINF:-1 xui-id="570850" tvg-id="TVO Canal 23.sv" tvg-name="TVO Canal 23" tvg-logo="https://i.ibb.co/k0Z5s6t/tvo-1.png" group-title="EL SALVADOR",TVO Canal 23
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqdat_j_lfgzPxF3e5kR80k
+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 57.SV" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA/1BMVEVHcExCqdXX4UnV3UC+ZK3U2zoPqNfV3BokrdjR4M5IuNzTzGQ0sdnEppO5WZ/S3CvCWp7S2y4bqte4WZ7vkinR2x/wlie8VIcYqtfU3Av3oST///8Ap9cAjcC1TZkAodWxQpbS3APx+v3i7vaUyeB5vtvR1QOuNpNCrNWZ0OgBmMXE5PC83e/679z9/f7ZugDQ6fbs8LjyvZPbr8/Xpcn37fi9VInbsM79/vIzsdxcstX5/P5Hc6OBpMLi7tpnirDWxQD10MrnpRfTeVS1tFLsiR2vcK3itdKq1+nW4HHQ0hrDmWa+gXpIsKzAz6WIpL81icRIlMjk6qkfnsh+qs70dQKBAAAAG3RSTlMAWkJOOmb6t48JJi9IGJ6iYJG9pq7ZdrLS6EieNARTAAABZklEQVQokbWS11rCQBCFQYRQBXvZ3SSbbCopBAGR3gV7e/9ncTYERORSz8Ve7P/NmTPzTSz270ocCkIxmdmFklQf+P5Ap8Xf+FQfVYeu61ZHPs1tsUu/iiINx3TvBxMmzoohr97QN2nuyUIbqhv3iTVL49sN5CFUa9CI5lNYKiONEKLBYxMw8YwHmgRUOMIYSwiZtsUch1m2zatnMtWBZoFxV2JqDAwrhHFYMyaUp0oDNOHzg9kmGBCFwxv5kQq8Z4pXtlUPlUlbJRpaQjFksTjvWdZUNCeoRXpBEDTda1ncX8a9gLQKsVuEqaQVLN6biybA4yXM8qYK0xxUZqrb66nPCtiK6yVI87BVp/9pVpx+5+UOYOQbC9cAs/c7UF/pdkN4EME8ZOLbVUHtKO3alw8rYauiLFX3arJ4sLIN58FSKPxqGMb5N+HKpFN8kfht1hhPp9u3ACPl4/FSqVC4OjvZeWV/pS/QPDp628iIFwAAAABJRU5ErkJggg=="grou -title="Undefined",Canal 57 (220p)
+https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+
+#EXTINF:-1 xui-id="570854" tvg-id="" tvg-name="Wow TV" tvg-logo="https://i.ibb.co/BnP3wCw/wow-tv.png" group-title="EL SALVADOR",Wow TV
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDppGbBfYr4Fo6k4dRO5VtHO
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="General",TVC Network (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="Undefined",TCS+ (480p) [Not 24/7]
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-logo="https://i.imgur.com/OBuiCyb.png" group-title="Legislative",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Taber TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tabertv.png/revision/latest?cb=20210621011556&path-prefix=es" group-title="▶️ - EL SALVADOR",Taber TV
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070295
+#EXTINF:-1 xui-id="570844" tvg-id="" tvg-name="TIGO SPORTS (SOLO EVENTOS) 1" tvg-logo="https://play-lh.googleusercontent.com/AaH2aYDblSifv-zVr6oBEKDXsQy6fYl1o2KdzRh0S0ahjbtjtelkJc5oLZwAWVd9vmM" group-title="EL SALVADOR",TIGO SPORTS (SOLO EVENTOS) 1
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpaUDJWEcbRJlOeymLVViNp
 
-#EXTINF:-1 tvg-id="SV" tvg-name="Wow TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Logowomtext.png/revision/latest?cb=20210421203039&path-prefix=es" group-title="▶️ - EL SALVADOR",Wow TV
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070296
+#EXTINF:-1 xui-id="569008" tvg-id="" tvg-name="CENTROAMERICA TV" tvg-logo="https://pbs.twimg.com/media/Eu_yYz-WYAEOzMz.png" group-title="EL SALVADOR",CENTROAMERICA TV
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw9wmULaSqrx9z0D8BkvaZ70QsnONXS0q8dttdaTnz10IZ
 
-#EXTINF:-1 tvg-id="CANAL 57."SV"grou -title="Undefined",Canal 57
-https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+#EXTINF:-1 xui-id="570840" tvg-id="" tvg-name="TaberTv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",TaberTv
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpu0XyExXpTCOKCXwe5Iq56
+
+#EXTINF:-1 xui-id="587784" tvg-id="" tvg-name="ELIM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L_FY9OB_wen0_7VrrZlF3OCGDJcLWqilzg&s" group-title="EL SALVADOR",ELIM TV
+http://onn.lat:80/play/t_PcwxkWq9JU_3uYyJVw90qJR7wOWyo8NpFf31BP8Ux-Uc-xNp59_Ry5WmyvUnwh
+
+#EXTINF:-1 xui-id="570847" tvg-id="" tvg-name="TVCA" tvg-logo="https://lh3.googleusercontent.com/JqfzWmvTJ4WW6MgjV6478Ceowx35f-W-7tsLuxzl0gqHIivnzPilKrfNI6Q3vpF1sRJT" group-title="EL SALVADOR",TVCA
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/chunks.m3u8
 
 #*****************************CANALES DE UNIVISION
 #*****************************
@@ -754,3 +776,4 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1, tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa Televisión Católica Arquidiocesana (720p)
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
+
